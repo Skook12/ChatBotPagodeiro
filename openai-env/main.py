@@ -1,6 +1,6 @@
 import openai
 
-OPENAI_API_KEY="sk-proj-uQHsbRXxBVZ7H75IV391T3BlbkFJrAPxbHHUw6rKjtN1syBY"
+OPENAI_API_KEY="Coloque a sua chave da api aqui"
 
 openai.api_key = OPENAI_API_KEY
 def enviar_mensagem(mensagem):
