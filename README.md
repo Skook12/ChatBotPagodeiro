@@ -1,5 +1,7 @@
 # ChatBotPagodeiro
 
+#Dupla: Rodrigo Franco e Guilherme Chumbinho
+
 # Comandos Para Rodar o Programa
 
 1 Comando - openai-env\Scripts\activate
